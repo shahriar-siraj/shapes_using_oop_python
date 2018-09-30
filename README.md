@@ -1,1 +1,7 @@
-# shapes_using_oop_python
+# Shapes using Object Oriented Programming Python
+
+Basic program that shows the concept of Object Oriented Programming in Python
+
+It includes:
+- Inheritance,
+- Encapsulation.
